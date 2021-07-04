@@ -498,7 +498,7 @@ body {
   color: var(--white-active-color);
 }
 
-.portfolio-image-wrapper:hover .portfolio-text-wrapper {
+.portfolio .link:hover .portfolio-text-wrapper {
   transform: translateY(0%);
   transition: transform 250ms linear;
 }
