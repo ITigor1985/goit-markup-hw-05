@@ -575,7 +575,6 @@ body {
 /* ----------------------footer-------------- */
 
 .footer {
-  max-width: 1600px;
   width: 100%;
   margin: 0 auto;
   background-color: var(--fotter-hero-bg);
